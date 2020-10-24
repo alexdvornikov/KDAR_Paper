@@ -13,5 +13,5 @@ This follows the [NuWro tutorial](https://nuwro.github.io/user-guide/getting-sta
 (See the last code snippet on the linked page)<br />
 
 2. ***all_channels.root*** is the output of the above command. <br />
-3. ***KDAR_NuWro_Distributions.ipynb*** extracts and plots the proton and muon kinetic energies from ***all_channels.root*** <br />
+3. ***KDAR_NuWro_Distributions.ipynb*** plots the proton and muon kinetic energies from ***all_channels.root***. <br />
 This is a Jupyter Notebook running Python but it can be viewed in this browser. 
